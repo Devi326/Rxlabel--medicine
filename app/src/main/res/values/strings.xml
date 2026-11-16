@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxLabel</string>
+    <string name="default_web_client_id_dummy">123456789012-abcdefghijklmnopqrstuvwxyz.apps.googleusercontent.com</string>
+</resources>
